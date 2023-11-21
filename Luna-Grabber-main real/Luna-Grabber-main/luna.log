@@ -1,0 +1,96 @@
+[admin.py:29] - 2023-11-21 04:16:33,787 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2023-11-21 04:16:33,787 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-11-21 04:16:33,821 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe', 'C:\\Users\\karina\\Downloads\\Luna-Grabber-main real\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-11-21 04:16:33,822 - INFO - Running command 'C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe' - '"C:\\Users\\karina\\Downloads\\Luna-Grabber-main real\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-11-21 04:16:36,559 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,776 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,776 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,776 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,777 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,778 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 04:16:36,779 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:420] - 2023-11-21 04:16:59,005 - INFO - Retrieved filename: uzisexternal
+[builder.pyw:389] - 2023-11-21 04:16:59,005 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2023-11-21 04:16:59,005 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2023-11-21 04:16:59,008 - INFO - Successfully changed config
+[builder.pyw:486] - 2023-11-21 04:19:01,283 - INFO - Successfully compiled uzisexternal.exe with pyinstaller
+[builder.pyw:498] - 2023-11-21 04:19:01,760 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2023-11-21 04:19:01,761 - INFO - Successfully removed file: ./uzisexternal.spec
+[builder.pyw:507] - 2023-11-21 04:19:01,761 - INFO - Successfully removed file: ./uzisexternal.py
+[builder.pyw:507] - 2023-11-21 04:19:01,762 - INFO - Successfully removed file: ./tools/upx.exe
+[connectionpool.py:1052] - 2023-11-21 04:20:21,721 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-11-21 04:20:22,869 - DEBUG - https://discord.com:443 "GET /api/webhooks/1174060664818503690/9f9pf-TDW7SnG6xGrTZ0lEqoDJPev8i6lMJtX37-8g3fuQHUVmtquLRR6xEUclAwcNlR HTTP/1.1" 200 None
+[builder.pyw:420] - 2023-11-21 04:20:28,398 - INFO - Retrieved filename: uzisexternal2.0
+[builder.pyw:389] - 2023-11-21 04:20:28,398 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2023-11-21 04:20:28,398 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2023-11-21 04:20:28,401 - INFO - Successfully changed config
+[builder.pyw:486] - 2023-11-21 04:22:16,937 - INFO - Successfully compiled uzisexternal2.0.exe with pyinstaller
+[builder.pyw:498] - 2023-11-21 04:22:17,314 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2023-11-21 04:22:17,315 - INFO - Successfully removed file: ./uzisexternal2.0.py
+[builder.pyw:507] - 2023-11-21 04:22:17,316 - INFO - Successfully removed file: ./uzisexternal2.0.spec
+[builder.pyw:507] - 2023-11-21 04:22:17,317 - INFO - Successfully removed file: ./tools/upx.exe
+[admin.py:29] - 2023-11-21 23:28:41,069 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2023-11-21 23:28:41,071 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-11-21 23:28:41,108 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe', 'C:\\Users\\karina\\Downloads\\Luna-Grabber-main real\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-11-21 23:28:41,108 - INFO - Running command 'C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe' - '"C:\\Users\\karina\\Downloads\\Luna-Grabber-main real\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-11-21 23:28:45,004 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,331 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,332 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,333 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,333 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,333 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,334 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,334 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,334 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,334 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,335 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,335 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,336 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,336 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,336 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,336 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,337 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,337 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,338 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,338 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,339 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,339 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,339 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,339 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 23:28:45,339 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:420] - 2023-11-21 23:29:35,303 - INFO - Retrieved filename: Luna-Grabber-main
+[builder.pyw:386] - 2023-11-21 23:29:35,303 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2023-11-21 23:29:35,309 - INFO - Successfully changed config
+[builder.pyw:522] - 2023-11-21 23:29:35,864 - INFO - Successfully obfuscated file: Luna-Grabber-main.py
+[builder.pyw:451] - 2023-11-21 23:29:37,492 - INFO - Successfully pumped file: Luna-Grabber-main.py
+[builder.pyw:420] - 2023-11-21 23:30:31,560 - INFO - Retrieved filename: Builder
+[builder.pyw:386] - 2023-11-21 23:30:31,560 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2023-11-21 23:30:31,562 - INFO - Successfully changed config
+[builder.pyw:522] - 2023-11-21 23:30:32,042 - INFO - Successfully obfuscated file: Builder.py
+[builder.pyw:451] - 2023-11-21 23:30:33,676 - INFO - Successfully pumped file: Builder.py
+[connectionpool.py:1052] - 2023-11-21 23:30:57,792 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-11-21 23:30:58,933 - DEBUG - https://discord.com:443 "GET /api/webhooks/1176665578556104719/VDUmZQoqO-35il6dwizHbZ9KuCjbSBVFGdVXCh_cZlQX3_YOjPRch1eJMIJbzjNMYTaz HTTP/1.1" 200 None
+[builder.pyw:420] - 2023-11-21 23:31:02,266 - INFO - Retrieved filename: Builder
+[builder.pyw:386] - 2023-11-21 23:31:02,266 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2023-11-21 23:31:02,268 - INFO - Successfully changed config
+[builder.pyw:522] - 2023-11-21 23:31:02,708 - INFO - Successfully obfuscated file: Builder.py
+[builder.pyw:451] - 2023-11-21 23:31:04,526 - INFO - Successfully pumped file: Builder.py
+[admin.py:92] - 2023-11-21 23:31:11,122 - INFO - Process handle <PyHANDLE:1476> returned code 0
